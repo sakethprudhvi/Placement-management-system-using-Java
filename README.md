@@ -1,0 +1,1 @@
+ This project provides the facility of maintaining the details of the students in a database.Implemented CRUD operations using Java as backend programming language. MYSQL relational database connectivity. Leveraged Postman software as the interface for sending retrieving data. 
